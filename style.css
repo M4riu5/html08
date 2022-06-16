@@ -1,3 +1,17 @@
 body {
-  background-color: coral;
+  background-color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+h1 {
+  font-weight: normal;
+  font-size: 3rem;
+}
+p {
+  text-transform: uppercase;
+  text-align: justify;
+  padding: 0 30px;
+}
+a {
+  color: inherit;
 }
